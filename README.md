@@ -6,10 +6,26 @@
 
 [https://ad-lyriks-app.netlify.app/](https://ad-lyriks-app.netlify.app/)
 
-<h2>Project Screenshots:</h2>
+<h2>Project Screenshots along with its features:</h2>
+<img src="src/assets/Capture.PNG" alt="project-screenshot" />
+<p><h4>The landing page of the website</h4>
+</p>
+<br />
 
 
-<img src="s" alt="project-screenshot" width="400" height="400/">
+<img src="src/assets/2.PNG" alt="project-screenshot" />
+<p><h4>Around You tab, which detects the user's location and lists out all the famous songs in that area.
+<h4>The Top Artist's Tab, displays the top artists in the region</h4>
+<h4>The Top Charts displays the most played song around the world</h4>
+</h4></p>
+<br/>
+<img src="src/assets/3.PNG" alt="project-screenshot" />
+<p><h4>A fully functioning search, to find your favorite song immediately.</h4></p>
+<br/>
+<img src="src/assets/4.PNG" alt="project-screenshot" />
+<p><h4>On playing the song, you can also view the lyrics of the song. </h4>
+<h4>You can also play the previous song, increase/decrease the song's volume, and shuffle songs. </h4>
+</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
